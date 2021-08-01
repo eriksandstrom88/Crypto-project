@@ -6,6 +6,10 @@ I am extremely interested in the future applications of blockchain technology, s
 
 After gathering all the data, I cleaned and organized it so that I could explore for trends correlating or predicting Bitcoin price trends.  I created lots of line charts to take a very high level look at the movement in Bitcoin prices as compared with all of the other metrics.  After this preliminary exploration, it was apparent that there is some relationship between gold prices and Bitcoin prices, especially after all the attention Bitcoin got during the 2017 price spike.  It was also surprising to me that the Dow Jones Industrial Average and NASDAQ both move in similar patterns to Bitcoin prices.  There did not appear to be much of a relationship between any of the uncertainty indices and Bitcoin.  There was no relationship between inflation (as measured by monthly CPI) and Bitcoin prices, aside from, "they both went up."  I believe a deeper analysis of M1, M2 and M3 money supply would be more revealing, as would an analysis of Bitcoin prices against inflation expectations rather than empirical inflation data.
 
+![image](https://user-images.githubusercontent.com/75816400/127788808-4a59f93b-20c1-4bba-a1ec-a32db59fefe2.png)
+
+![image](https://user-images.githubusercontent.com/75816400/127788821-092808f6-b1c0-461c-9e60-c6af833b79c6.png)
+
 Conclusions and observations...
 I have much more analysis to do, looking at lag indicators, using different metrics, and looking at different world events at the times of major trends.  From my analysis to this point, my initial conclusions are:
 
